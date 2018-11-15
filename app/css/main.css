@@ -1,0 +1,10 @@
+body {
+  font-size: 22px; }
+
+body {
+  background-color: yellow;
+  color: brown;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
